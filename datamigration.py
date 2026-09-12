@@ -1,0 +1,2 @@
+def datamigrate():
+    print("dm")
